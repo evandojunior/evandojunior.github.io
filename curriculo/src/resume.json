@@ -1,0 +1,144 @@
+{
+    "nome": "Evando Alves de Santana Junior",
+    "nascionalidade": "Brasileiro",
+    "idade": "23",
+    "email": "evandojunior@live.com",
+    "cidade": "Planaltina",
+    "estado": "GO",
+    "pais": "Brasil",
+    "descricao": [
+        "Graduando em Análise e Desenvolvimento de Sistemas, trabalho com desenvolvimento de sistemas em PHP desde 2014.",
+        "Amante da tecnologia, música e jogos eletrônicos.",
+        "Estou sempre em busca de aperfeiçoamento profissional e pessoal."
+    ],
+    "redes_sociais": {
+        "github": "https://github.com/evandojunior",
+        "linkedin": "https://br.linkedin.com/in/evando-junior",
+        "twitter": "https://twitter.com/_evandojunior"
+    },
+    "habilidades": {
+        "Back-End": {
+            "PHP": "Avançado",
+            "Laravel Framework": "Intermediário",
+            "Symfony Framework": "Básico",
+            "Shell Script": "Básico"
+        },
+        "Front-End": {
+            "Javascript": "Avançado",
+            "HTML5": "Avançado",
+            "CSS3": "Avançado",
+            "Jquery": "Avançado",
+            "Bower": "Intermediário",
+            "Gulp": "Intermediário",
+            "Sass": "Intermediário",
+            "Knockout.js": "Intermediário",
+            "Vue.js": "Intermediário",
+            "Angular.js": "Básico"
+        },
+        "Banco de Dados": {
+            "MySQL": "Avançado",
+            "MonoDB": "Básico",
+            "Redis": "Básico",
+            "PostgreSQL": "Básico"
+        },
+        "DevOps": {
+            "GIT": "Intermediário",
+            "SVN": "Básico"
+        },
+        "Outras": {
+            "Orientação a Objetos": "Avançado",
+            "MVC": "Avançado",
+            "REST": "Intermediário",
+            "Design Patterns": "Intermediário"
+        }
+    },
+    "educacao": [
+        {
+            "nivel": "Superior",
+            "data_inicio": "04/2016",
+            "data_fim": "",
+            "curso": "Análise e Desenvolvimento de Sistemas",
+            "instituicao": "Universidade Cruzeiro do Sul",
+            "descricao": [
+                "Estudei materias como Engenharia da Computação, Probalilidade e Estatística, Empreendedorismo, Técnicas de Programação e Qualidade de Software.",
+                "Neste curso pude aprofundar meu conhecimento nos processos de análise e desenvolvimento de softwares."
+            ],
+            "cursando": true
+        },
+        {
+            "nivel": "Técnico",
+            "data_inicio": "04/2016",
+            "data_fim": "04/2017",
+            "curso": "Programação de Jogos Digitais",
+            "instituicao": "Faculdade Projeção",
+            "descricao": [
+                "Nesse curso pude experienciar o desenvolvimento de jogos desde a modelagem a programação de cenários e personagens.",
+                "Pude estudar materias como, Lógica de Programação, Interação Homem-Computador, Técnicas Audiovisuais,",
+                "Modelagem 2D e 3D, Física Para Jogos, Linguagem de Programação C# e Programação Orientada a Objetos.",
+                "Matérias quais me deram a base para o meu conhecimento."
+            ],
+            "cursando": false
+        }
+    ],
+    "experiencia": [
+        {
+            "cargo": "Desenvolvedor Web",
+            "empresa": "CPMarra Inteligência Contábil",
+            "descricao": [
+                "Análise e desenvolvimento de sistemas web utilizando PHP, Javascript, SQL, HTML e CSS.",
+                "Pude fazer parte do desenvolvimento de alguns projetos incrivéis como:",
+                "Guardian Doc - Uma plataforma web que funciona como um repositório de notas fiscais eletrônicas.",
+                "Labrador - Um gerenciador financeiro para empresas que também é um emissor de NF-e.",
+                "Encontrei Contador - Uma plataforma de localização de profissonais contábeis para diversos tipos de serviços"
+            ],
+            "data_inicio": "04/2015",
+            "data_fim": "",
+            "atual": true
+        },
+        {
+            "cargo": "Auxiliar de TI",
+            "empresa": "Metrofile Gereciamento e Logística de Documentos",
+            "descricao": [
+                "Prestação de suporte aos usuários em sistemas, redes e telecomunicações",
+                "Manutenção preventiva em computadores e periféricos, backup, formatação e instalação de softwares."
+            ],
+            "data_inicio": "06/2012",
+            "data_fim": "04/2015",
+            "atual": false
+        }
+    ],
+    "complementar": [
+        {
+            "curso": "PHP Orientado a Objetos",
+            "local": "Curso em Vídeo",
+            "descricao": [
+                "Introdução a Orientação a Objetos com PHP."
+            ],
+            "status": "Concluído"
+        },
+        {
+            "curso": "Certificação Bootstrap",
+            "local": "Keven Jesus Consultoria e Treinamentos",
+            "descricao": [
+                "Curso Front-end voltado ao Bootstrap, Gulp e Sass"
+            ],
+            "status": "Em andamento"
+        },
+        {
+            "curso": "Ruby On Rails",
+            "local": "Udemy",
+            "descricao": [
+                "Curso voltado ao aprendizado da linguagem de programação Ruby juntamente com o framework Rails."
+            ],
+            "status": "Em andamento"
+        },
+        {
+            "curso": "Python",
+            "local": "Udemy",
+            "descricao": [
+                "Introdução a linguagem de programação Python."
+            ],
+            "status": "Em andamento"
+        }
+    ]
+}
